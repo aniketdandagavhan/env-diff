@@ -23,8 +23,8 @@ node main.js
 
 ```
 ✅ Keys missing in NEW:
- [ 'EXTRA_CRED' ]
+ [ 'MISSING_CRED' ]
 
 ⚠️  Extra keys in NEW:
- [ 'MISSING_CRED' ]
+ [ 'EXTRA_CRED' ]
 ```
